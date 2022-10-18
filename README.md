@@ -1,6 +1,6 @@
 ### Hi, I'm Ayrton! 👋
 
-![This is an image](https://raw.githubusercontent.com/avinash-218/avinash-218/main/Images/coding_2.gif)
+
 
 <!--
 **ayrton08/ayrton08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
