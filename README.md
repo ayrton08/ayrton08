@@ -1,10 +1,15 @@
 ### Hi, I'm Ayrton! 👋
 
-I am a Full Stack developer. My passion is the constant learning of technologies both for web development.
+<h4>I am a Full Stack developer. My passion is the constant learning of technologies both for web development.</h4>
+  
+<p  align="center">
+
+</p>
 
 ****
 <p align="center">
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ayrton08&theme=tokyonight' />
+  <img src='https://raw.githubusercontent.com/ayrton08/ayrton08/main/dev.gif' width="285" height="285"/>
 </p>
 
 ****
@@ -34,7 +39,15 @@ I am a Full Stack developer. My passion is the constant learning of technologies
 </p>
 <br/>
 
-********
+## <a href="https://github.com/ayrton08/lost-pets__react" target="_blank">Lost Pets</a>
+<p>Web app to report lost pets by using geographic location.</p>
+
+<p align="center" width="100%">
+<img  src="https://github.com/ayrton08/lost-pets__react/blob/main/assets/p1_2.png" width="32%" height='240px'>
+<img  src="https://raw.githubusercontent.com/ayrton08/lost-pets__react/main/assets/p1_1.png" width="32%" height='240px'>
+<img  src="https://raw.githubusercontent.com/ayrton08/lost-pets__react/main/assets/p1_4.png" width="32%" height='240px'>
+</p>
+<br/>
 
 *You want to know more about me, contact me!*
 <br/>
