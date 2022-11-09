@@ -30,23 +30,33 @@
 <h1 align="center"> Projects </h1>
 
 ## <a href="https://github.com/ayrton08/rock-raper-scissors__react" target="_blank">Rock, Paper or Scissors</a>
-<p>Rock, Paper or Sccisors is an online game based on the concept of rooms.</p>
+<p>Rock, Paper or Sccisors is an online game based on the concept of rooms.</p> 
+
+[Demo](https://rock-paper-scissors-ayrton.vercel.app/)
 
 <p align="center">
 <img  src="https://raw.githubusercontent.com/ayrton08/Rock-Paper-or-Scissors-react-version-/main/public/1.jpeg" width="32%" height='250px'>
 <img  src="https://raw.githubusercontent.com/ayrton08/Rock-Paper-or-Scissors-react-version-/main/public/3.jpeg" width="32%" height='250px'>
 <img  src="https://raw.githubusercontent.com/ayrton08/Rock-Paper-or-Scissors-react-version-/main/public/4.jpeg" width="32%" height='250px'>
 </p>
+
+
+
 <br/>
 
 ## <a href="https://github.com/ayrton08/lost-pets__react" target="_blank">Lost Pets</a>
 <p>Web app to report lost pets by using geographic location.</p>
+
+[Demo](https://apx-dwf-m8.firebaseapp.com/)
 
 <p align="center" width="100%">
 <img  src="https://github.com/ayrton08/lost-pets__react/blob/main/assets/p1_2.png" width="32%" height='240px'>
 <img  src="https://raw.githubusercontent.com/ayrton08/lost-pets__react/main/assets/p1_1.png" width="32%" height='240px'>
 <img  src="https://raw.githubusercontent.com/ayrton08/lost-pets__react/main/assets/p1_4.png" width="32%" height='240px'>
 </p>
+
+
+
 <br/>
 
 *You want to know more about me, contact me!*
