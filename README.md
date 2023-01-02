@@ -29,6 +29,17 @@
 
 <h1 align="center"> Projects </h1>
 
+## <a href="https://github.com/ayrton08/e-commerce_front" target="_blank">Market</a>
+<p>Market is an ecommerce made with Next.js</p> 
+
+[Demo](https://aj-market.vercel.app/)
+
+<p align="center">
+<img  src="https://raw.githubusercontent.com/ayrton08/e-commerce_front/main/assets/pic1.png" width="32%" height='250px'>
+<img  src="https://raw.githubusercontent.com/ayrton08/e-commerce_front/main/assets/pic2.png" width="32%" height='250px'>
+<img  src="https://raw.githubusercontent.com/ayrton08/e-commerce_front/main/assets/pic3.png" width="32%" height='250px'>
+</p>
+
 ## <a href="https://github.com/ayrton08/rock-raper-scissors__react" target="_blank">Rock, Paper or Scissors</a>
 <p>Rock, Paper or Sccisors is an online game based on the concept of rooms.</p> 
 
