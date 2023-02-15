@@ -79,5 +79,5 @@
 Linkedin: <a href="https://www.linkedin.com/in/ayrton-juarez/">www.linkedin.com/in/ayrton-juarez/</a> <br/>
 <br/>
 E-mail: ayrtonjuarez90@gmail.com <br/>
-Site: [ayrtonjuarez.vercel.app](https://ayrtonjuarez.vercel.app/home) <br/>
+Site: [ayrtonjuarez.deno.dev](https://ayrtonjuarez.deno.dev) <br/>
 
