@@ -37,9 +37,9 @@
 [Demo](https://aj-market.vercel.app/)
 
 <p align="center">
-<img  src="https://res.cloudinary.com/apx-m7-dwf/image/upload/v1674216325/ecommerce_preview/pic1_o7zuax.png" width="32%" height='250px'>
-<img  src="https://res.cloudinary.com/apx-m7-dwf/image/upload/v1674216324/ecommerce_preview/pic2_vm2xss.png" width="32%" height='250px'>
-<img  src="https://res.cloudinary.com/apx-m7-dwf/image/upload/v1674216322/ecommerce_preview/pic3_sp83ac.png" width="32%" height='250px'>
+<img  src="https://res.cloudinary.com/apx-m7-dwf/image/upload/v1677792751/ecommerce_preview/Screenshot_from_2023-03-02_18-29-20_owv77c.png" width="32%" height='250px'>
+<img  src="https://res.cloudinary.com/apx-m7-dwf/image/upload/v1677792748/ecommerce_preview/Screenshot_from_2023-03-02_18-30-50_ywnteb.png" width="32%" height='250px'>
+<img  src="https://res.cloudinary.com/apx-m7-dwf/image/upload/v1677792747/ecommerce_preview/Screenshot_from_2023-03-02_18-31-08_bqj7sd.png" width="32%" height='250px'>
 </p>
 
 
