@@ -1,6 +1,16 @@
 ### Hi, I'm Ayrton! 👋
 
-<h4>I am a Full Stack developer. My passion is the constant learning of technologies both for web development.</h4>
+I'm Ayrton Juarez, a simple developer 👨‍💻
+
+💡 currently learning --> [ UX | UI ]
+
+|--> some of the things I love are movies, music and cryptocurrencies.
+
+|--> I have training in React, Node, Typescript, among others.
+
+|--> I am constantly learning, doing projects with the aim of getting work experience in the IT world.
+
+|--> absolutely determined to continue growing professionally, willing to learn new technologies and eager to apply the best method to provide a solution or improvement.
   
 <p  align="center">
 
