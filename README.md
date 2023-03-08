@@ -1,5 +1,3 @@
-### Hi, I'm Ayrton! 👋
-
 I'm Ayrton Juarez, a simple developer 👨‍💻
 
 💥 currently learning -->  UX | UI 
