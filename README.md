@@ -2,7 +2,7 @@
 
 I'm Ayrton Juarez, a simple developer 👨‍💻
 
-💡 currently learning --> [ UX | UI ]
+💡 currently learning -->  UX | UI 
 
 |--> some of the things I love are movies, music and cryptocurrencies.
 
