@@ -24,9 +24,9 @@
 [Demo](https://aj-market.vercel.app/)
 
 <p align="center">
-<img  src="https://res.cloudinary.com/apx-m7-dwf/image/upload/v1677792751/ecommerce_preview/Screenshot_from_2023-03-02_18-29-20_owv77c.png" width="32%" height='250px'>
-<img  src="https://res.cloudinary.com/apx-m7-dwf/image/upload/v1677792748/ecommerce_preview/Screenshot_from_2023-03-02_18-30-50_ywnteb.png" width="32%" height='250px'>
-<img  src="https://res.cloudinary.com/apx-m7-dwf/image/upload/v1677792747/ecommerce_preview/Screenshot_from_2023-03-02_18-31-08_bqj7sd.png" width="32%" height='250px'>
+<img  src="https://res.cloudinary.com/apx-m7-dwf/image/upload/v1681502247/portfolio/Screenshot_from_2023-04-13_17-53-02_c9xb2s.png" width="32%" height='250px'>
+<img  src="https://res.cloudinary.com/apx-m7-dwf/image/upload/v1681502247/portfolio/Screenshot_from_2023-04-13_17-53-28_kavz5m.png" width="32%" height='250px'>
+<img  src="https://res.cloudinary.com/apx-m7-dwf/image/upload/v1681502242/portfolio/Screenshot_from_2023-04-13_17-53-41_jz7wlt.png" width="32%" height='250px'>
 </p>
 
 ## <a href="https://github.com/ayrton08/prodigar" target="_blank">Prodigar</a>
