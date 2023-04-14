@@ -21,7 +21,7 @@
 ## <a href="https://github.com/ayrton08/e-commerce_front" target="_blank">Market</a>
 <p>Market is an ecommerce made with Next.js</p> 
 
-[Demo](https://aj-market.vercel.app/)
+[Demo](https://aj-market.up.railway.app/)
 
 <p align="center">
 <img  src="https://res.cloudinary.com/apx-m7-dwf/image/upload/v1681502247/portfolio/Screenshot_from_2023-04-13_17-53-02_c9xb2s.png" width="32%" height='250px'>
